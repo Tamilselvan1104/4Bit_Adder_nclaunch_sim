@@ -117,6 +117,7 @@ or
 	Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 	To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+![image](https://github.com/user-attachments/assets/b4778f13-74ab-4173-96ac-a742d4b0e09a)
 
 ### Fig 7: Nclaunch Window
 
@@ -136,6 +137,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code 
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation
+![Screenshot (131)](https://github.com/user-attachments/assets/e7881ec7-0528-4394-aa47-c7298c0270ee)
 
 ### Fig 8: Compiled database in worklib
 
@@ -159,6 +161,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 5.	It also establishes net connectivity and prepares all of this for simulation
    
 	After elaboration the file will come under snapshot. Select the test bench and elaborate it.
+![Screenshot (132)](https://github.com/user-attachments/assets/204bc1b4-ca78-4ded-9032-8eb190ec5f75)
 
 ### Fig 9: Elaboration Launch Option
 
@@ -171,10 +174,12 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 	Simulation allow to dump design and test bench signals into a waveform 
 
 	Steps for simulation – Run the simulation command with simulator options
-
+![image](https://github.com/user-attachments/assets/be9d180c-4f58-4b3a-ab54-6092ac07bda2)
 ### Fig 10: Design Browser window for simulation
+![image](https://github.com/user-attachments/assets/fcda47b8-2bde-4b99-b04c-2e3303e2a851)
 
 ### Fig 11: Launching Simulation Waveform WindowSimulation Waveform Window
+![image](https://github.com/user-attachments/assets/4d5f641e-d6c9-444b-ae3b-4fa797c3df3f)
 
 ### Fig 12: Simulation Waveform Window
 
